@@ -7,3 +7,9 @@ Thanks to sources inside the organization, we've managed to map the inner workin
 # Author
 
 Student currently in his final year.
+
+# More about this challenge
+
+This challenge was made for a CTF event co-organized by Hénallux and Högskolan i Halmstad. It is about one of my favorite TV shows, The Wire, and took me quite some time to achieve it. It is definitely not perfect and may be subject to future modifications in order to refine.
+
+Format of the flag : HHCTF{flag}
