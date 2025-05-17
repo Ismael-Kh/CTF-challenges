@@ -1,6 +1,6 @@
 # Description
 
-A few eyars ago, a man was accused of baducting a wild animal, but I can't recall his name or the type of animal. I remember reading about it while driving around Hollywood with my friend Orlando. That same  day, I'd read that my home country, Belgium, was flooded.
+A few years ago, a man was accused of baducting a wild animal, but I can't recall his name or the type of animal. I remember reading about it while driving around Hollywood with my friend Orlando. That same  day, I'd read that my home country, Belgium, was flooded.
 
 The pictures from my trip are in this compressed file and the password is a combination of the man's surname and the animal, all in lowercase.
 
